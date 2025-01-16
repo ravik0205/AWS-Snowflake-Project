@@ -12,6 +12,10 @@ This project focuses on designing and implementing an end-to-end data engineerin
 - **Data Quality Problems**: Lack of standardization affected reporting accuracy.
 - **Limited Analytics Capability**: Insufficient support for advanced analytics and ML.
 
+- ### **Architecture Overview**  
+![Architecture Diagram](https://github.com/ravik0205/Azure---Databricks-Project/blob/main/Documentation/azure%20databricks%20workflow.png) 
+
+
 ## Solution 💡
 
 The solution involved designing a modern data engineering architecture that centralized and streamlined data processing, enabling real-time analytics and scalable reporting.

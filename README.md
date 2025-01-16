@@ -13,7 +13,7 @@ This project focuses on designing and implementing an end-to-end data engineerin
 - **Limited Analytics Capability**: Insufficient support for advanced analytics and ML.
 
 - ### **Architecture Overview**  
-![Architecture Diagram](https://github.com/ravik0205/Azure---Databricks-Project/blob/main/Documentation/azure%20databricks%20workflow.png) 
+![Architecture Diagram](https://github.com/ravik0205/AWS-Snowflake-Project/blob/main/Documentation/aws%20-%20snwoflake%20workflow.png) 
 
 
 ## Solution 💡
